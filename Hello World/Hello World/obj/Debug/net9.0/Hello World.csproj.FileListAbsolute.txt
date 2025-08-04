@@ -1,0 +1,14 @@
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\bin\Debug\net9.0\Hello World.exe
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\bin\Debug\net9.0\Hello World.deps.json
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\bin\Debug\net9.0\Hello World.runtimeconfig.json
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\bin\Debug\net9.0\Hello World.dll
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\bin\Debug\net9.0\Hello World.pdb
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.AssemblyInfo.cs
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.dll
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\refint\Hello World.dll
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.pdb
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\Hello World.genruntimeconfig.cache
+C:\Users\krylov.g\Rider Projects\Ulearn\Hello World\Hello World\obj\Debug\net9.0\ref\Hello World.dll
